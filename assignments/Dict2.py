@@ -1,3 +1,5 @@
+#histogram of no of emails from an address.
+
 import re
 
 emails = {}

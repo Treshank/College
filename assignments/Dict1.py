@@ -1,3 +1,5 @@
+# Read parse from pull out address and count the no of email in that day of week.
+
 import re
 
 days = {
