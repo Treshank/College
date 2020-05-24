@@ -1,3 +1,6 @@
+# dist of hour of day of each message using tuple
+
+
 ini = 0
 f = open(input("Enter the file name: "))
 for line in f:

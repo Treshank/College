@@ -1,3 +1,5 @@
+# Reads file and prints in decreasing order of freq
+
 f = open(input("Enter the file name: "))
 ini = 0
 while True:

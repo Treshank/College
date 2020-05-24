@@ -1,3 +1,4 @@
+#Count no of messages from each person.
 ini = 0
 f = open(input("Enter the file name: "))
 for line in f:
